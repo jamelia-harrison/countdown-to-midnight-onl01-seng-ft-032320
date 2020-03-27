@@ -7,9 +7,7 @@ def countdown(number)
       number -= 1
   end
 end
-def seconds
-      return self
-   end
+  return 
 
 def countdown_with_sleep
 
