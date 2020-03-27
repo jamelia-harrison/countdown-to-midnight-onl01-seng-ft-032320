@@ -8,3 +8,7 @@ def countdown(number)
   end
   return HAPPY NEW YEAR!"
 end
+
+seconds
+      return self
+end
